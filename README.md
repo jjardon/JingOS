@@ -6,7 +6,7 @@ It can run Linux apps and Android apps.
 It is created to allow natural control by touch, pencil, keyboard, and trackpad.
 
 [Download JingOS](https://en.jingos.com)
-
+qweqweq
 Here are some other links:
 
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - The World’s First Consumer-Level Linux Tablet.
