@@ -25,7 +25,7 @@ Here are some other links:
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 
 ## Our Open-Source Project
-
+SDFSDFSDF
 [JingCore-WindowManger](https://github.com/JingOS-team/jing-kwin)\
 JingCore-WindowManger is based on KDE Kwin, it is used to manage the application
 windows. More gestures and other functions that are specially
